@@ -168,7 +168,7 @@ for i, path in enumerate(confusion_matrix_paths, 1):
     plt.imshow(img)
     plt.axis('off')
 
-plt.suptitle(clf_name, fontsize=16)
+plt.suptitle(clf_name, fontsize=16 )
 plt.tight_layout(rect=[0, 0.03, 1, 0.95])
 plt.savefig('conf_matrix.png', bbox_inches='tight', dpi=300)
 plt.close()
