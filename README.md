@@ -107,36 +107,19 @@ churn-cml-dvc/
 -   Image de la matrice de confusion
 
 ------------------------------------------------------------------------
-
 ## 🧪 Captures d'écran
 
-### Graph Report
+| Graph Report | Merged | Rapport |
+|---|---|---|
+| ![](./screenshots/graph%20report.png) | ![](./screenshots/merged.png) | ![](./screenshots/Rapport.png) |
 
-![](./screenshots/graph%20report.png)
+| Pending | Report from Gmail | Run |
+|---|---|---|
+| ![](./screenshots/pending.png) | ![](./screenshots/Report%20from%20gmail.png) | ![](./screenshots/run.png) |
 
-### Merged
-
-![](./screenshots/merged.png)
-
-### Rapport
-
-![](./screenshots/Rapport.png)
-
-### Pending
-
-![](./screenshots/pending.png)
-
-### Report from Gmail
-
-![](./screenshots/Report%20from%20gmail.png)
-
-### Run
-
-![](./screenshots/run.png)
-
-### Termined
-
-![](./screenshots/termined.png)
+| Termined |  |  |
+|---|---|---|
+| ![](./screenshots/termined.png) |  |  |
 
 ------------------------------------------------------------------------
 
