@@ -112,31 +112,31 @@ churn-cml-dvc/
 
 ### Graph Report
 
-![](./graph%20report.png)
+![](./screenshots/graph%20report.png)
 
 ### Merged
 
-![](./merged.png)
+![](./screenshots/merged.png)
 
 ### Rapport
 
-![](./Rapport.png)
+![](./screenshots/Rapport.png)
 
 ### Pending
 
-![](./pending.png)
+![](./screenshots/pending.png)
 
 ### Report from Gmail
 
-![](./Report%20from%20gmail.png)
+![](./screenshots/Report%20from%20gmail.png)
 
 ### Run
 
-![](./run.png)
+![](./screenshots/run.png)
 
 ### Termined
 
-![](./termined.png)
+![](./screenshots/termined.png)
 
 ------------------------------------------------------------------------
 
